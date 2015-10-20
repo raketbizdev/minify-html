@@ -3,8 +3,8 @@ wordpress snippits for minification of html
 
 **Instructions**
 
-- Open function.php
-- Copy and paste the snnipits
-- Save
+1. Open function.php
+2. Copy and paste the snnipits
+3. Save
 
 Done!
