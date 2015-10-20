@@ -1,5 +1,9 @@
 # minify-html
-wordpress snippits for minification of html
+this is a wordpress snippits for minification of html it will also work on other php site just remove the `add_action hook`.
+
+```php
+add_action('get_header', 'minify_html');
+```
 
 **Instructions**
 
