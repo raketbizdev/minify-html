@@ -20,6 +20,3 @@ function minify_html($minify) {
 
 ob_start("minify_html");
 add_action('get_header', 'minify_html');
-/*
-* End Of line
-*/
